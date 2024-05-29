@@ -1,4 +1,4 @@
-# Fase1-230714-Ghivizzano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230714-ghivizzano_1067181))
+# Fase1-230714-Ghivizzano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230714-ghivizzano_1067181?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
 Sopralluogo nell'area di Ghivizzano per individuare il sito ipogeo della Buca delle fate di Coreglia
 ## Percorso: Ghivizzano-Buca delle fate di Coreglia
 [<img src='/vignettes/KcT0Xxqh.jpg' width='250'/>](/vignettes/KcT0Xxqh.jpg) 
