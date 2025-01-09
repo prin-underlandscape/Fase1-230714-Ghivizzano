@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.046067" lon="10.523167">
+    <ele>500</ele>
+    <name>Guado sul Torrente Segone</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.046565" lon="10.524328">
+    <ele>500</ele>
+    <name>Buca delle fate di Coreglia</name>
+    <desc>Grotta con due camere, da quella di destra si diparte un corridoio che porta ad un inghiottitoio di circa 10 m di profondità</desc>
+  </wpt>
+  <wpt lat="44.046429" lon="10.523239">
+    <ele>500</ele>
+    <name>Torrente Segone</name>
+    <desc>Torrente molto ricco di acqua anche in estate, sfruttato dall'acquedotto locale, forma varie cascatelle e nella porzione a monte è incassato tra alte pareti rocciose</desc>
+  </wpt>
+  <wpt lat="44.046254" lon="10.523086">
+    <ele>500</ele>
+    <name>Casottino acquedotto</name>
+    <desc>Passaggio nella rete per raggiungere il torrente</desc>
+  </wpt>
+  <trk>
+    <name>Ghivizzano-Buca delle fate di Coreglia</name>
+    <desc>Percorso su strada bianca che dalla SP 38 per Coreglia conduce in località Assugo. Proseguendo oltre le case fino al torrente Segone, una volta guadato il torrente, si continua per una 20ina di metri sul versante e si trova l'ingresso della grotta</desc>
+    <trkseg>
+      <trkpt lat="[10.522973, 44.046219]" lon="[10.522973, 44.046219]">
+        <ele>[10.522973, 44.046219]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
